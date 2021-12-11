@@ -11,16 +11,16 @@ If anyone want to use his API, got to this [website](https://spotify-api-wrapper
 ```
 git clone https://github.com/juliorojas81871/Play-Music
 ```
-2.5. Make sure that you are in the right folder, if not cd to it.
-3. type: 
+3. Make sure that you are in the right folder, if not cd to it.
+4. type: 
 ```
 npm i
 ```
-4. type: 
+5. type: 
 ```
 npm run dev
 ```
-5. go to browser and type at the address bar: 
+6. go to browser and type at the address bar: 
 ```
 http://localhost:1234/
 ```
