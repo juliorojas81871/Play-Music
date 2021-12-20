@@ -30,7 +30,7 @@ class App extends Component {
         console.log('this,state', this.state);
         return( 
             <div>
-                <h2>Music Master</h2>
+                <h2>Julio Music Player</h2>
                 <Search searchArtist={this.searchArtist}/>
                 <Artist artist={this.state.artist} />
                 <Tracks tracks={this.state.tracks} />

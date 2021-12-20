@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel src/index.html",
+    "build": "parcel src/index.html --public-url /music-play",
     "start": "npm run build && live-server dist"
   },
   "keywords": [],
